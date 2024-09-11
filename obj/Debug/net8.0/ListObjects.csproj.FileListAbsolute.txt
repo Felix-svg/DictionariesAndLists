@@ -1,0 +1,14 @@
+D:\Development\ListObjects\bin\Debug\net8.0\ListObjects.exe
+D:\Development\ListObjects\bin\Debug\net8.0\ListObjects.deps.json
+D:\Development\ListObjects\bin\Debug\net8.0\ListObjects.runtimeconfig.json
+D:\Development\ListObjects\bin\Debug\net8.0\ListObjects.dll
+D:\Development\ListObjects\bin\Debug\net8.0\ListObjects.pdb
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.AssemblyInfoInputs.cache
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.AssemblyInfo.cs
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.csproj.CoreCompileInputs.cache
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.dll
+D:\Development\ListObjects\obj\Debug\net8.0\refint\ListObjects.dll
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.pdb
+D:\Development\ListObjects\obj\Debug\net8.0\ListObjects.genruntimeconfig.cache
+D:\Development\ListObjects\obj\Debug\net8.0\ref\ListObjects.dll
